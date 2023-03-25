@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kbd_Hole")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_FootPrint/kbd_Hole")(options "")(descr ""))
+)

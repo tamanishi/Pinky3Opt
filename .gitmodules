@@ -16,3 +16,6 @@
 [submodule "top/KiCAD_FootPrint"]
 	path = top/KiCAD_FootPrint
 	url = https://github.com/Salicylic-acid3/KiCAD_FootPrint.git
+[submodule "bottom/KiCAD_FootPrint"]
+	path = bottom/KiCAD_FootPrint
+	url = https://github.com/Salicylic-acid3/KiCAD_FootPrint.git
